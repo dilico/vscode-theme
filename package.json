@@ -1,0 +1,21 @@
+{
+  "name": "dilico-theme",
+  "displayName": "dilico-theme",
+  "description": "This is my theme. There are many like it, but this one is mine.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dilico theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dilico theme-color-theme.json"
+      }
+    ]
+  }
+}
