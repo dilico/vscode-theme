@@ -2,6 +2,10 @@
   "name": "dilico-theme",
   "displayName": "dilico-theme",
   "description": "This is my theme. There are many like it, but this one is mine.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dilico/vscode-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"

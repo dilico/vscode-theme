@@ -284,7 +284,6 @@
       "name": "De-emphasize comments",
       "scope": "comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#65737e"
       }
     },
@@ -300,7 +299,6 @@
       "name": "Emphasize strings",
       "scope": "string",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#00ef97"
       }
     },
@@ -314,7 +312,6 @@
       "name": "Emphasize constants",
       "scope": ["constant.language", "constant.numeric"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#00ef97"
       }
     },
@@ -322,7 +319,6 @@
       "name": "De-emphasize most keywords",
       "scope": ["keyword - keyword.operator", "keyword.control", "storage"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#65737e"
       }
     },
@@ -394,14 +390,12 @@
     {
       "scope": "meta.function-call",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#c0c5ce"
       }
     },
     {
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#c0c5ce"
       }
     },
@@ -440,12 +434,6 @@
       "scope": "token.error-token",
       "settings": {
         "foreground": "#cc4756"
-      }
-    },
-    {
-      "scope": "emphasis",
-      "settings": {
-        "fontStyle": "italic"
       }
     },
     {
@@ -488,7 +476,6 @@
     {
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#dfe1e8"
       }
     },
@@ -563,14 +550,12 @@
       "name": "Groovy: emphasize method keys",
       "scope": "constant.other.key.groovy",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#c0c5ce"
       }
     },
     {
       "scope": "source.terraform.embedded.source",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#65737e"
       }
     },
@@ -635,7 +620,6 @@
     {
       "scope": "entity.other.attribute-name.pseudo-element.css",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#00ef97"
       }
     },
